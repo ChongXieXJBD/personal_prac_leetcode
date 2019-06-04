@@ -1,2 +1,3 @@
 # personal_prac_leetcode
-个人练习
+This is personal practice include Data structure and some algorithum question.
+
